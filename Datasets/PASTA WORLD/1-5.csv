@@ -1,0 +1,6 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,37185477,,,,37185477,,27441619,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,38054825,,,,38054825,,27859681,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,36288591,,,,36288591,,31269381,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,49534664,,,,49534664,,43777797,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,58761096,,,,58761096,,48188391,,,0

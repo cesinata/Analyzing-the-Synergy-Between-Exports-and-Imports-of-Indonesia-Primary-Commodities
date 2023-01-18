@@ -1,0 +1,6 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,45937257,,,,45937257,,26300231,,,0
+H4,2013,2013,2013,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,68184456,,,,68184456,,37065949,,,0
+H4,2014,2014,2014,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,79968261,,,,79968261,,39952485,,,0
+H4,2015,2015,2015,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1101,Wheat or meslin flour,8,Weight in kilograms,79139742,,,,79139742,,35293893,,,0
+H3,2011,2011,2011,4,0,2,Export,360,Indonesia,IDN,0,World,WLD,,,,,,,,1101,Wheat or meslin flour.,8,Weight in kilograms,31656811,,,,31656811,,18299110,,,0

@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4420921982,,,,4420921982,,1482237829,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,930618874,,,,930618874,,389463580,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,30506220,,,,30506220,,66027235,,,0
+H4,2012,2012,2012,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,686380356,,,,686380356,,256394638,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3808898197,,,,3808898197,,1387382507,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1372007190,,,,1372007190,,546094222,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,304849959,,,,304849959,,86709280,,,0
+H4,2013,2013,2013,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,535334575,,,,535334575,,196189060,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4000378569,,,,4000378569,,1265747012,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1364031803,,,,1364031803,,466490370,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,333084375,,,,333084375,,90732934,,,0
+H4,2014,2014,2014,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,989394434,,,,989394434,,340382776,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4268553463,,,,4268553463,,1197028022,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1715020171,,,,1715020171,,533776691,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,664056202,,,,664056202,,144089240,,,0
+H4,2015,2015,2015,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,389708281,,,,389708281,,119177984,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,3737762215,,,,3737762215,,1389444338,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,982156117,,,,982156117,,447677511,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,3038280,,,,3038280,,963872,,,0
+H3,2011,2011,2011,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin.,8,Weight in kilograms,747916587,,,,747916587,,307226391,,,0

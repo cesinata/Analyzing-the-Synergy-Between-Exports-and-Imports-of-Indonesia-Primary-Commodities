@@ -1,0 +1,21 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,62820,,,,62820,,16897,,,0
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,650883,,,,650883,,84907,,,0
+H1,2001,2001,2001,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,1312137,,,,1312137,,296040,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,580500,,,,580500,,120413,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,7411,,,,7411,,73355,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,1824383,,,,1824383,,427770,,,0
+H1,2002,2002,2002,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,2053783,,,,2053783,,463107,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,7297,,,,7297,,12420,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,257062,,,,257062,,53526,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,5754575,,,,5754575,,1341571,,,0
+H1,2003,2003,2003,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,3842792,,,,3842792,,942136,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,12618285,,,,12618285,,472979,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,231820,,,,231820,,90720,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,2540787,,,,2540787,,609833,,,0
+H1,2004,2004,2004,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,24969547,,,,24969547,,4409762,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,410,Rep. of Korea,KOR,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,13490944,,,,13490944,,1249312,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,458,Malaysia,MYS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,16287,,,,16287,,2880,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,1500,,,,1500,,615,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,626,Timor-Leste,TLS,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,1477227,,,,1477227,,354839,,,0
+H1,2005,2005,2005,6,1,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,110100,Wheat or meslin flour,8,Weight in kilograms,21767874,,,,21767874,,4857136,,,0

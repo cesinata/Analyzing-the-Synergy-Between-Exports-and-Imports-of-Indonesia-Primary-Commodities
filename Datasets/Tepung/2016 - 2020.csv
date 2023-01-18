@@ -1,0 +1,26 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H4,2016,2016,2016,6,1,0,X,360,Indonesia,IDN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,6789040,-1,N/A,,6789040,,2982136,,2982136,0
+H4,2016,2016,2016,6,1,0,X,360,Indonesia,IDN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1895830,-1,N/A,,1895830,,675802,,675802,0
+H4,2016,2016,2016,6,1,0,X,360,Indonesia,IDN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,28047000,-1,N/A,,28047000,,10790316,,10790316,0
+H4,2016,2016,2016,6,1,0,X,360,Indonesia,IDN,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,15634397,-1,N/A,,15634397,,7417389,,7417389,0
+H4,2016,2016,2016,6,1,0,X,360,Indonesia,IDN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,2163093,-1,N/A,,2163093,,906007,,906007,0
+H5,2017,2017,2017,6,1,0,X,360,Indonesia,IDN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,3800100,8,kg,3800100,3800100,,1545430,,1545430.97,0
+H5,2017,2017,2017,6,1,0,X,360,Indonesia,IDN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1889565,8,kg,1889565,1889565,,729094,,729094.3,0
+H5,2017,2017,2017,6,1,0,X,360,Indonesia,IDN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,29533950,8,kg,29533950,29533950,,10060758,,10060758.29,0
+H5,2017,2017,2017,6,1,0,X,360,Indonesia,IDN,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,17262708,8,kg,17262708,17262708,,7405741,,7405741.75,0
+H5,2017,2017,2017,6,1,0,X,360,Indonesia,IDN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1342629,8,kg,1342629.83,1342629,,542663,,542663.66,0
+H5,2018,2018,2018,6,1,0,X,360,Indonesia,IDN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,3535310,8,kg,3535310,3535310,,1470417,,1470417.61,0
+H5,2018,2018,2018,6,1,0,X,360,Indonesia,IDN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,507308,8,kg,507308,507308,,190382,,190382.07,0
+H5,2018,2018,2018,6,1,0,X,360,Indonesia,IDN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,12504925,8,kg,12504925,12504925,,4170038,,4170038.8,0
+H5,2018,2018,2018,6,1,0,X,360,Indonesia,IDN,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,17293482,8,kg,17293482,17293482,,7292855,,7292855.59,0
+H5,2018,2018,2018,6,1,0,X,360,Indonesia,IDN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,2212787,8,kg,2212787.82,2212787,,653599,,653599.21,0
+H5,2019,2019,2019,6,1,0,X,360,Indonesia,IDN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,663090,8,kg,663090,663090,0,303380,,303380,0
+H5,2019,2019,2019,6,1,0,X,360,Indonesia,IDN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,151745,8,kg,151745,151745,0,64023,,64023,0
+H5,2019,2019,2019,6,1,0,X,360,Indonesia,IDN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1154375,8,kg,1154375,1154375,0,539207,,539207,0
+H5,2019,2019,2019,6,1,0,X,360,Indonesia,IDN,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,17021505,8,kg,17021505,17021505,0,7184752,,7184752,0
+H5,2019,2019,2019,6,1,0,X,360,Indonesia,IDN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1494517,8,kg,1494517,1494517,0,593200,,593200,0
+H5,2020,2020,2020,6,1,0,X,360,Indonesia,IDN,410,Rep. of Korea,KOR,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,21000,8,kg,21000,21000,0,9493,0,9493,0
+H5,2020,2020,2020,6,1,0,X,360,Indonesia,IDN,458,Malaysia,MYS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,600854,8,kg,600854,600854,0,286169,0,286169.315,0
+H5,2020,2020,2020,6,1,0,X,360,Indonesia,IDN,608,Philippines,PHL,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1189790,8,kg,1189790,1189790,0,513752,0,513752.684,0
+H5,2020,2020,2020,6,1,0,X,360,Indonesia,IDN,626,Timor-Leste,TLS,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,16596283,8,kg,16596283,16596283,0,6928272,0,6928272.289,0
+H5,2020,2020,2020,6,1,0,X,360,Indonesia,IDN,702,Singapore,SGP,0,World,W00,C00,All CPCs,0,All MOTs,110100,Wheat or meslin flour,8,kg,1018530,8,kg,1018530.6,1018530,0,470025,0,470025.574,0

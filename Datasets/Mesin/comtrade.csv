@@ -1,0 +1,6 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,843880,"Industrial machinery nes for food, drink preparation",5,Number of items,1054,,,,873496,,6647749,,,2
+H1,2002,2002,2002,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,843880,"Industrial machinery nes for food, drink preparation",5,Number of items,766,,,,626557,,4562041,,,2
+H1,2003,2003,2003,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,843880,"Industrial machinery nes for food, drink preparation",5,Number of items,619,,,,559122,,3987088,,,2
+H1,2004,2004,2004,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,843880,"Industrial machinery nes for food, drink preparation",1,No Quantity,,,,,876040,,9995283,,,0
+H1,2005,2005,2005,6,1,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,843880,"Industrial machinery nes for food, drink preparation",1,No Quantity,,,,,1342032,,12706070,,,0

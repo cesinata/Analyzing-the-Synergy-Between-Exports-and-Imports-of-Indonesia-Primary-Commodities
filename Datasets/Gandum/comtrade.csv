@@ -1,0 +1,6 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2717607977,,,,2717607977,,399521747,,,0
+H1,2002,2002,2002,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4250271839,,,,4250271839,,614447972,,,0
+H1,2003,2003,2003,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3502373174,,,,3502373174,,579924997,,,0
+H1,2004,2004,2004,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4544265707,,,,4544265707,,838577117,,,0
+H1,2005,2005,2005,4,0,1,Import,360,Indonesia,IDN,0,World,WLD,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,4428511318,,,,4428511318,,799003390,,,0

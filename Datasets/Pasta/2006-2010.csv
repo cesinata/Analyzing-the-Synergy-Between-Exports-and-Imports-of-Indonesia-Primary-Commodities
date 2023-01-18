@@ -1,0 +1,26 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",8,Weight in kilograms,8145890,,,,8145890,,14501551,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",8,Weight in kilograms,49813,,,,49813,,77003,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",8,Weight in kilograms,18354586,,,,18354586,,14380351,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",8,Weight in kilograms,1013860,,,,1013860,,1867844,,,0
+H3,2010,2010,2010,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",8,Weight in kilograms,1356662,,,,1356662,,2304050,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,3642095,,,,3642095,,4533278,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,826435,,,,826435,,584081,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,16972785,,,,16972785,,7953360,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1009103,,,,1009103,,1036653,,,0
+H1,2006,2006,2006,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,913062,,,,913062,,1110514,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,5119804,,,,5119804,,6539848,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1004556,,,,1004556,,763457,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,17201158,,,,17201158,,9211825,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1185833,,,,1185833,,1287802,,,0
+H1,2007,2007,2007,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,939727,,,,939727,,1262312,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,7094338,,,,7094338,,11886161,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,623631,,,,623631,,832075,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,13487648,,,,13487648,,13143621,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,789723,,,,789723,,956483,,,0
+H1,2008,2008,2008,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1060711,,,,1060711,,1786595,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,8373925,,,,8373925,,15446535,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,9090,,,,9090,,8913,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,15806632,,,,15806632,,12401259,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1720929,,,,1720929,,4453009,,,0
+H1,2009,2009,2009,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1377456,,,,1377456,,2471398,,,0

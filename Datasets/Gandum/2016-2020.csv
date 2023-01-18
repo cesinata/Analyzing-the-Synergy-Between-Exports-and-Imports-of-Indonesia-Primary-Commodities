@@ -1,0 +1,26 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,152312300,,,,152312300,,31465123,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,5103675340,,,,5103675340,,1170720664,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1686051590,,,,1686051590,,485361155,,,0
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1985856117,,,,1985856117,,409989701,,,6
+H5,2017,2017,2017,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1150149164,,,,1150149164,,277108241,,,6
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,677953400,,,,677953400,,143866302,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2419709020,,,,2419709020,,639613733,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1973706300,,,,1973706300,,571678852,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2419768488,,,,2419768488,,578212626,,,0
+H5,2018,2018,2018,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,904173500,,,,904173500,,235838204,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1952499000,,,,1952499000,,509793865,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,891387070,,,,891387070,,259811497,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2439293820,,,,2439293820,,701942924,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2991810815,,,,2991810815,,698795525,,,0
+H5,2019,2019,2019,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1258254551,,,,1258254551,,342513643,,,6
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2635500400,,,,2635500400,,627689335,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,830836700,,,,830836700,,239844394,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2336601111,,,,2336601111,,639340867,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2960785600,,,,2960785600,,707568636,,,0
+H5,2020,2020,2020,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1276991001,,,,1276991001,,341794538,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,32,Argentina,ARG,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1289197860,,,,1289197860,,243180706,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,3499715320,,,,3499715320,,852325891,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,124,Canada,CAN,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,1658441086,,,,1658441086,,445757652,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,804,Ukraine,UKR,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,2469436909,,,,2469436909,,492965015,,,0
+H4,2016,2016,2016,4,0,1,Import,360,Indonesia,IDN,842,USA,USA,,,,,,,,1001,Wheat and meslin,8,Weight in kilograms,938665013,,,,938665013,,230932641,,,0

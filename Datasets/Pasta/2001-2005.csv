@@ -1,0 +1,26 @@
+Classification,Year,Period,Period Desc.,Aggregate Level,Is Leaf Code,Trade Flow Code,Trade Flow,Reporter Code,Reporter,Reporter ISO,Partner Code,Partner,Partner ISO,2nd Partner Code,2nd Partner,2nd Partner ISO,Customs Proc. Code,Customs,Mode of Transport Code,Mode of Transport,Commodity Code,Commodity,Qty Unit Code,Qty Unit,Qty,Alt Qty Unit Code,Alt Qty Unit,Alt Qty,Netweight (kg),Gross weight (kg),Trade Value (US$),CIF Trade Value (US$),FOB Trade Value (US$),Flag
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,3091015,,,,3091015,,3055847,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,27815,,,,27815,,39975,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,5933405,,,,5933405,,2831282,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,566157,,,,566157,,612716,,,0
+H1,2001,2001,2001,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,850332,,,,850332,,698639,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1991938,,,,1991938,,1892254,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,88850,,,,88850,,36109,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,5044782,,,,5044782,,2380980,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,595437,,,,595437,,630164,,,0
+H1,2002,2002,2002,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,906947,,,,906947,,1118324,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,2438797,,,,2438797,,2731245,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,17200,,,,17200,,7725,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,4150630,,,,4150630,,2010755,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,582435,,,,582435,,695294,,,0
+H1,2003,2003,2003,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,832061,,,,832061,,1157524,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,3033339,,,,3033339,,3781218,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,62112,,,,62112,,30459,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,8946431,,,,8946431,,4023044,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,526177,,,,526177,,536742,,,0
+H1,2004,2004,2004,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,934339,,,,934339,,1467739,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,36,Australia,AUS,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,3104837,,,,3104837,,3871775,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,156,China,CHN,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1050876,,,,1050876,,686832,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,608,Philippines,PHL,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,11288996,,,,11288996,,5039743,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,702,Singapore,SGP,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,1241051,,,,1241051,,1029791,,,0
+H1,2005,2005,2005,4,0,2,Export,360,Indonesia,IDN,842,USA,USA,,,,,,,,1902,"Pasta, couscous, etc.",8,Weight in kilograms,672464,,,,672464,,845514,,,0
